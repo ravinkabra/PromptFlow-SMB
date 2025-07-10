@@ -27,3 +27,8 @@ Steps:
 4. Parses response and formats it
 5. Saves or appends data in selected format
 
+
+#### Creator: Ravin Kabra
+#### Email: ravin.kabra@gmail.com or rkabra2@wisc.edu
+#### GitHub: ravinkabra
+
